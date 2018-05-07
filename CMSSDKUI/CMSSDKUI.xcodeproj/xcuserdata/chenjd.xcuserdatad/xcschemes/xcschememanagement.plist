@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CMSSDKUI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>CMSSDKUIDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CreateCMSSDKUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E252129A1E6019DD00A58C88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E25AD1621E63FD4F00022336</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E25AD1D31E6400C400022336</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E263A9EE1E5E821500F146DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
